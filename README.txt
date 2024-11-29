@@ -6,7 +6,7 @@ I would like to add that, in my opinion, for browser automation (during testing)
 
 This task could have been implemented using Selenide + Java + AutoIt in the following way:
 
-Launch the browser and navigate to the website: Selenide.
-Download the Setup.exe file: Selenide.
-Run the file: AutoIt (invoked from Java).
-Perform the installation (click the "Next" button): AutoIt.
+Launch the browser and navigate to the website - Selenide.
+Download the Setup.exe file - Selenide.
+Run the file - AutoIt (run script from Java).
+Perform the installation (click the "Next" button) - AutoIt.
